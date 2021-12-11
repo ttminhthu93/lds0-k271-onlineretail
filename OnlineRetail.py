@@ -25,6 +25,7 @@ import warnings
 warnings.filterwarnings('ignore',category=FutureWarning)
 
 'test'
+'test2'
 # # Build project===========================================================================================
 # data = pd.read_csv('Data/OnlineRetail.csv', encoding= 'unicode_escape')
 
