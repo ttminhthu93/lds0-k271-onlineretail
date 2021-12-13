@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run OnlineRetail.py
+web: sh setup.sh && streamlit run OnlineRetailF1.py
